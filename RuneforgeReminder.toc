@@ -1,0 +1,8 @@
+## Interface: 120001
+## Title: Runeforge Reminder
+## Notes: Checks your talents and weapons and warns you if you have the wrong Runeforge applied
+## Category: Equipment
+## Author: Khazak
+## Version: 1.0
+
+RuneforgeReminder.lua

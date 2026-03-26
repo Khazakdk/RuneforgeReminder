@@ -3,6 +3,6 @@
 ## Notes: Checks your talents and weapons and warns you if you have the wrong Runeforge applied
 ## Category: Equipment
 ## Author: Khazak
-## Version: 1.0
+## Version: 1.1
 
 RuneforgeReminder.lua

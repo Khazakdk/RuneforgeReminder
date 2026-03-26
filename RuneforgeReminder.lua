@@ -94,6 +94,7 @@ if class == "Death Knight" then
     frame:RegisterEvent("PLAYER_EQUIPMENT_CHANGED")
     frame:RegisterEvent("PLAYER_SPECIALIZATION_CHANGED")
     frame:RegisterEvent("SPELLS_CHANGED")
+    frame:RegisterEvent("ENCHANT_SPELL_COMPLETED")
 end
 
 frame:SetScript("OnEvent", function(self, event)

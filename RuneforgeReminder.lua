@@ -27,7 +27,7 @@ local function ValidateRuneforge(slot, runeforgeId)
         return runeforgeId == 6245
     end
     if currentSpec == "Blood" then
-        return runeforgeId == 3368
+        return runeforgeId == 3368 or runeforgeId == 6241
     end
     return false
 end
